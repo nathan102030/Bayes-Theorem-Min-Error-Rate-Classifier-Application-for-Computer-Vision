@@ -1,0 +1,1 @@
+# Bayes-Theorem-Min-Error-Rate-Classifier-Application-for-Computer-Vision
